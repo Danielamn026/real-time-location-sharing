@@ -1,4 +1,4 @@
-# Taller03
+# 	RealTimeLocationSharing
 
 Aplicación Android para gestionar la disponibilidad de usuarios en tiempo real mediante geolocalización, autenticación con Firebase y un mapa interactivo basado en OpenStreetMap.
 
@@ -133,46 +133,6 @@ La aplicación solicita permisos de:
 5. El usuario puede cambiar su disponibilidad desde el menú.
 6. La lista de usuarios disponibles puede consultarse desde el mapa.
 7. El servicio en primer plano mantiene la disponibilidad activa en la aplicación.
-
-## Licencia
-
-Este proyecto no especifica una licencia en el repositorio. Si deseas publicarlo, puedes agregar una licencia apropiada como MIT o Apache 2.0.
-
-## Autor
-
-Proyecto desarrollado por Danielamn026.
-
-## Ideas de nombres para el proyecto
-
-- GeoConnect
-- NearbyNow
-- LocuApp
-- PulseMap
-- DisponiMap
-- MatchLocate
-- LiveReach
-- MapaVivo
-- AvailaMap
-- SpotMe
-- UbicApp
-- ReadyNow
-
-### Recomendación
-
-Si buscas un nombre más limpio y profesional, te recomiendo:
-
-- GeoConnect
-- NearbyNow
-- AvailaMap
-
-Mi recomendación principal: `GeoConnect`
-
-Es claro, moderno, fácil de recordar y encaja bien con una app de localización y disponibilidad.
-
-## Siguientes pasos sugeridos
-
-- separar lógica de Firebase en repositorios o ViewModels
-- organizar Activities en paquetes por feature
 - agregar pruebas unitarias o de UI
 - mejorar validaciones y manejo de errores
 - crear una versión final con branding propio
